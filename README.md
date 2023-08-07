@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy Mohajon</h1>
 <h3 align="center">Full Stack Web Developer with React.js and Spring Boot as my forte, coupled with a problem-solving platform like UVa and Codeforces.</h3>
-
+<img align="right" width="400" alt="coding" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy-mohajon&label=Profile%20views&color=0e75b6&style=flat" alt="joy-mohajon" /> </p>
 
 - 🔭 I’m currently working on [Spring boot project](https://github.com/joy-mohajon/AudioPlayer-reactjs-springBoot-ClientSide.git)
@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://l8.nu/tEFj](https://l8.nu/tEFj)
 
-<img algn="right" width="400" alt="coding" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joy-mohajon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy-mohajon" height="30" width="40" /></a>
