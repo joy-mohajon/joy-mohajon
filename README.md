@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/joy-mohajon](https://github.com/joy-mohajon)
 
-- 💬 Ask me about **react, spring boot, js**
+- 💬 Ask me about **wordpress, react, laravel, js**
 
 - 📫 How to reach me **joymohajonswe@gmail.com**
 
