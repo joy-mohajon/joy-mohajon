@@ -3,8 +3,6 @@
 <!-- <img align="right" width="400" alt="coding" src="https://miro.medium.com/v2/resize:fit:1358/0*7Q3yvSIv_t0ioJ-Z.gif" /> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy-mohajon&label=Profile%20views&color=0e75b6&style=flat" alt="joy-mohajon" /> </p>
 
-- 🔭 I’m currently working on [Spring boot project](https://github.com/joy-mohajon/AudioPlayer-reactjs-springBoot-ClientSide.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/joy-mohajon](https://github.com/joy-mohajon)
 
 - 💬 Ask me about **wordpress, react, laravel**
